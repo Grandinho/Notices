@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 12,
+  "nextPageIndex": 23,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -88,6 +88,76 @@
           "favorite": false
         }
       ]
+    },
+    {
+      "name": "C# Course",
+      "color": "#000000",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Introduction",
+          "fileName": "21.json",
+          "favorite": false
+        },
+        {
+          "title": "DataTypes and Variables",
+          "fileName": "12.json",
+          "favorite": false
+        },
+        {
+          "title": "Functions / Methods And how to Save Time",
+          "fileName": "13.json",
+          "favorite": false
+        },
+        {
+          "title": "Making Decisions",
+          "fileName": "14.json",
+          "favorite": false
+        },
+        {
+          "title": "Loops",
+          "fileName": "15.json",
+          "favorite": false
+        },
+        {
+          "title": "Object Oriented Programming (OOP)",
+          "fileName": "16.json",
+          "favorite": false
+        },
+        {
+          "title": "Collections in C#",
+          "fileName": "17.json",
+          "favorite": false
+        },
+        {
+          "title": "Debugging",
+          "fileName": "18.json",
+          "favorite": false
+        },
+        {
+          "title": "Inheritance And more about OOP",
+          "fileName": "19.json",
+          "favorite": false
+        },
+        {
+          "title": "Polymorphism + OOP",
+          "fileName": "20.json",
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "name": "Unity Course",
+      "color": "#000000",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Delivery Drive Game",
+          "fileName": "22.json",
+          "favorite": false
+        }
+      ]
     }
   ]
 }
+  
