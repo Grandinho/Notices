@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 6,
+  "nextPageIndex": 7,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -42,7 +42,13 @@
       "name": "M320 - Objektorientiere programmieren",
       "color": "#000000",
       "icon": "book",
-      "pages": []
+      "pages": [
+        {
+          "title": "Basics",
+          "fileName": "6.json",
+          "favorite": false
+        }
+      ]
     }
   ]
 }
