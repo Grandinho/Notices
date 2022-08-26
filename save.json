@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 11,
+  "nextPageIndex": 12,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -78,10 +78,16 @@
       ]
     },
     {
-      "name": "M112",
+      "name": "M114",
       "color": "#000000",
       "icon": "book",
-      "pages": []
+      "pages": [
+        {
+          "title": "Codierung",
+          "fileName": "11.json",
+          "favorite": false
+        }
+      ]
     }
   ]
 }
