@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 7,
+  "nextPageIndex": 11,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -49,6 +49,39 @@
           "favorite": false
         }
       ]
+    },
+    {
+      "name": "M346 - Cloud",
+      "color": "#000000",
+      "icon": "book",
+      "pages": [
+        {
+          "title": "Was ist Cloud",
+          "fileName": "7.json",
+          "favorite": false
+        },
+        {
+          "title": "Charaktersitiken",
+          "fileName": "8.json",
+          "favorite": false
+        },
+        {
+          "title": "Service-Modelle",
+          "fileName": "9.json",
+          "favorite": false
+        },
+        {
+          "title": "Deployment-Modelle",
+          "fileName": "10.json",
+          "favorite": false
+        }
+      ]
+    },
+    {
+      "name": "M112",
+      "color": "#000000",
+      "icon": "book",
+      "pages": []
     }
   ]
 }
