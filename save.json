@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 23,
+  "nextPageIndex": 24,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -73,6 +73,11 @@
         {
           "title": "Deployment-Modelle",
           "fileName": "10.json",
+          "favorite": false
+        },
+        {
+          "title": "GO",
+          "fileName": "23.json",
           "favorite": false
         }
       ]
@@ -157,6 +162,12 @@
           "favorite": false
         }
       ]
+    },
+    {
+      "name": "M254",
+      "color": "#000000",
+      "icon": "book",
+      "pages": []
     }
   ]
 }
