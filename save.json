@@ -1,5 +1,5 @@
 {
-  "nextPageIndex": 25,
+  "nextPageIndex": 26,
   "notebooks": [
     {
       "name": "M106_SQL",
@@ -90,6 +90,11 @@
         {
           "title": "Codierung",
           "fileName": "11.json",
+          "favorite": false
+        },
+        {
+          "title": "Codierung_Rückblickübungen",
+          "fileName": "25.json",
           "favorite": false
         }
       ]
