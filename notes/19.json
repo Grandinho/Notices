@@ -1,1 +1,1 @@
-{"type":"doc","content":[{"type":"paragraph","attrs":{"class":"pm-align--left"}}]}
+{"type":"doc","content":[{"type":"paragraph","attrs":{"class":"pm-align--left"},"content":[{"type":"text","text":"virutal - gives possibility to override the class in the inheritance"}]},{"type":"paragraph","attrs":{"class":"pm-align--left"},"content":[{"type":"text","text":"override = overwrites base class"}]}]}
